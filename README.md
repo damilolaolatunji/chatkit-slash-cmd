@@ -1,6 +1,6 @@
 # Chatkit Slash Commands
 
-Implement slash commands in a Chatkit powered application. Tutorial:
+Implement slash commands in a Chatkit powered application. Tutorial: https://pusher.com/tutorials/slash-command-chatroom
 
 ## Getting Started
 
